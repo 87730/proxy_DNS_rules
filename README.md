@@ -16,7 +16,7 @@
 
 ### 方法一：通过 URL 添加（推荐）
 
-1. 复制脚本的 RAW 地址
+1. 复制脚本的 RAW 地址 https://raw.githubusercontent.com/87730/proxy_DNS_rules/refs/heads/main/flclash.js
 2. FlClash → 配置 → 覆写脚本 → `+` → **通过 URL 添加**
 3. 粘贴链接 → 保存
 4. 关联到订阅 → 刷新
@@ -82,12 +82,6 @@ dns: {
 ├── flclash_leak_prevent.js    # FlClash 防泄露覆写脚本
 └── README.md                  # 本文件
 ```
-
-## 相关链接
-
-- FlClash 官网：[https://github.com/FlClash-Tsing](https://github.com/FlClash-Tsing)
-- mihomo 内核文档：[https://wiki.metacubex.one](https://wiki.metacubex.one)
-
 ## 常见问题
 
 **Q: 开 TUN 后网速变慢？**
